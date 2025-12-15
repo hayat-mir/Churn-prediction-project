@@ -1,8 +1,5 @@
 # Churn-prediction-
 
-
-# Churn-prediction-
-
 Project Overview
 This project focuses on analyzing Amazon sales data to identify trends in product pricing, discounts, ratings, and overall product performance. The objective is to perform exploratory data analysis and generate insights that support data-driven business decisions.
 ________________________________________
